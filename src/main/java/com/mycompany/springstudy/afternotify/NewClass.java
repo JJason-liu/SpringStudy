@@ -11,5 +11,4 @@ package com.mycompany.springstudy.afternotify;
  */
 public class NewClass {
 
-    private int a = 1;
 }
